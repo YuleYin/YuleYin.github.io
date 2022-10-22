@@ -1,0 +1,20 @@
+# main links links
+main:
+  - title: "Home"
+    url: "/#about-me"
+
+  - title: "Research"
+    url: "/#-Resarch Areas"
+
+  - title: "Events"
+    url: "/#-"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Projects"
+    url: "/#-educations"
+
+  - title: "Members"
+    url: "/#-"
+
